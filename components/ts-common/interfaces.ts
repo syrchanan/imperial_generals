@@ -12,5 +12,11 @@ interface HeroImage {
 
 interface HeroCard extends HeroImage {
     sideLeft: boolean
-    content: string
+    contentHead: string
+    contentBody: string
+}
+
+interface TitleSlide extends HeroImage {
+    subtitle: string,
+    era?: string
 }
