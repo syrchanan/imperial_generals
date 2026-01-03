@@ -68,10 +68,12 @@ export default function Home() {
     <main className="p-12">
       <div className="flex flex-col justify-center align-middle w-4/5 mx-auto">
         <div className="m-auto text-center flex flex-col space-y-4 p-2">
-          <h1 className="text-4xl font-bold">Welcome to Imperial Generals!</h1>
-          <h2 className="text-lg">A community-based historical RPG where
-            <i> you </i>
-            decide to follow history, or change it as you play.</h2>
+          <h1 className="text-4xl font-bold text-center mb-2">
+            Imperial Generals: <i>History is Your Battlefield</i>
+          </h1>
+          <h2 className="text-lg text-center">
+            Step into the command tent to plot, negotiate, and rule to define not only your fate, but the shifting tides of history itself.
+          </h2>
         </div>
         {HeroContent.map((HeroItem: HeroCard, index: number) => {
           return (

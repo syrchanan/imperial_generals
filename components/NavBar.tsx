@@ -12,8 +12,8 @@ const nav_links: NavItem[] = [
         path: "/rules"
     },
     {
-        label: "Map",
-        path: "/map"
+        label: "War Room",
+        path: "/war-room"
     }
 ]
 
@@ -42,9 +42,13 @@ export default function NavBar() {
                 <NavLinks links={nav_links} ul_className="hidden sm:flex sm:items-center sm:space-x-10" />
             </div>
             <div> {/* Right Side */}
-                <Button variant={"outline"} className="hidden sm:block bg-secondary hover:bg-primary text-secondary-foreground hover:text-primary-foreground border-2 border-solid rounded">
-                    <Link href="/login">
-                        Sign In
+                <Button
+                    asChild
+                    variant={"outline"}
+                    className="hidden sm:block bg-secondary hover:bg-primary text-secondary-foreground hover:text-primary-foreground border-2 border-solid rounded"
+                >
+                    <Link href="https://discord.gg/Hx4CfcMnkK" target="_blank" rel="noopener noreferrer">
+                        Join the Game
                     </Link>
                 </Button>
                 <div className="block sm:hidden">
@@ -63,9 +67,13 @@ export default function NavBar() {
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
                         </svg>
                     </button>
-                    <Button variant={"outline"} className="mx-12 my-4 bg-secondary hover:bg-primary text-secondary-foreground hover:text-primary-foreground border-2 border-solid rounded">
-                        <Link href="/login">
-                            Sign In
+                    <Button
+                        asChild
+                        variant={"outline"}
+                        className="mx-12 my-4 bg-secondary hover:bg-primary text-secondary-foreground hover:text-primary-foreground border-2 border-solid rounded"
+                    >
+                        <Link href="https://discord.gg/Hx4CfcMnkK" target="_blank" rel="noopener noreferrer">
+                            Join the Game
                         </Link>
                     </Button>
                     <NavLinks links={nav_links} nav_className="m-4" ul_className="flex flex-col align-middle items-center" li_className="my-2" />
