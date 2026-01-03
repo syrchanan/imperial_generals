@@ -8,10 +8,6 @@ import { useState } from "react"
 
 const nav_links: NavItem[] = [
     {
-        label: "Rules",
-        path: "/rules"
-    },
-    {
         label: "War Room",
         path: "/war-room"
     }

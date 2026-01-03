@@ -6,7 +6,7 @@ const HeroContent: HeroCard[] = [
     sideLeft: true,
     contentHead: "Forge Your Nation's Destiny",
     contentBody: "As the leader of a burgeoning nation, you'll have the power to shape its destiny. Issue strategic commands to mobilize your armies, fortify your borders, and expand your territory. Whether you're a seasoned strategist or a history buff, the strategic-level map will allow you to immerse yourself in the intricacies of nation-building and warfare.",
-    src: "/strategic_map.png",
+    src: "/strategic_map.jpg",
     width: 1146,
     height: 789
   },
@@ -14,7 +14,7 @@ const HeroContent: HeroCard[] = [
     sideLeft: false,
     contentHead: "Conquer the Battlefield",
     contentBody: "Command your troops with precision in epic battles! As the commander-in-chief, you'll have the power to dictate the fate of every soldier on the battlefield. From flanking maneuvers to coordinated assaults, your tactical decisions will determine the outcome of conflicts. With a variety of units and formations at your disposal, you'll have the freedom to devise unique strategies and outwit your enemies.",
-    src: "/tactical_map.png",
+    src: "/tactical_map.jpg",
     width: 3100,
     height: 1700
   },
@@ -22,7 +22,7 @@ const HeroContent: HeroCard[] = [
     sideLeft: true,
     contentHead: "Master the Art of Diplomacy",
     contentBody: "As the leader of your nation, you'll navigate the complex web of international relations. Forge alliances, negotiate treaties, and manipulate public opinion to achieve your strategic goals. From peaceful diplomacy to calculated aggression, your decisions will influence the balance of power and shape the course of history.",
-    src: "/sequoyah.png",
+    src: "/sequoyah.jpg",
     width: 814,
     height: 1300
   }

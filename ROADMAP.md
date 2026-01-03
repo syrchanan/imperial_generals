@@ -60,3 +60,12 @@
 - [ ] Add developer notes and lessons learned where useful
 
 _Last reviewed: 2026-01-02_
+
+---
+
+## Jan 2026 TODOs
+
+- [ ] Optimize map loading on /war-room/map page
+  - [ ] Replace iframe embed with lazy-loaded Google Maps JavaScript API using @googlemaps/js-api-loader
+  - [ ] Only do this if/when custom map controls or overlays are needed
+- [x] Current iframe embed is sufficient for now, no further action required immediately
