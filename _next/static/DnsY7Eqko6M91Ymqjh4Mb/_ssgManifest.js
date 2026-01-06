@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fwar-room\u002F[era]","\u002Fwar-room\u002F[era]\u002F[tool]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
