@@ -1,67 +1,9 @@
 import FeatureCard from "@/components/FeatureCard";
 import FocusCarousel from "@/components/FocusCarousel";
-
-const HeroContent: HeroCard[] = [
-  {
-    sideLeft: true,
-    contentHead: "Forge Your Nation's Destiny",
-    contentBody: "As the leader of a burgeoning nation, you'll have the power to shape its destiny. Issue strategic commands to mobilize your armies, fortify your borders, and expand your territory. Whether you're a seasoned strategist or a history buff, the strategic-level map will allow you to immerse yourself in the intricacies of nation-building and warfare.",
-    src: "/strategic_map.jpg",
-    width: 1146,
-    height: 789
-  },
-  {
-    sideLeft: false,
-    contentHead: "Conquer the Battlefield",
-    contentBody: "Command your troops with precision in epic battles! As the commander-in-chief, you'll have the power to dictate the fate of every soldier on the battlefield. From flanking maneuvers to coordinated assaults, your tactical decisions will determine the outcome of conflicts. With a variety of units and formations at your disposal, you'll have the freedom to devise unique strategies and outwit your enemies.",
-    src: "/tactical_map.jpg",
-    width: 3100,
-    height: 1700
-  },
-  {
-    sideLeft: true,
-    contentHead: "Master the Art of Diplomacy",
-    contentBody: "As the leader of your nation, you'll navigate the complex web of international relations. Forge alliances, negotiate treaties, and manipulate public opinion to achieve your strategic goals. From peaceful diplomacy to calculated aggression, your decisions will influence the balance of power and shape the course of history.",
-    src: "/sequoyah.jpg",
-    width: 814,
-    height: 1300
-  }
-]
-
-const TitleSlides: TitleSlide[] = [
-  {
-    src: "/eagle.svg",
-    height: 300,
-    width: 300,
-    alt: "Napoleonic Eagle",
-    subtitle: "Wars of the Coalition",
-    era: "1802 - 1815"
-  },
-  {
-    src: "/civil_war.jpg",
-    height: 543,
-    width: 952,
-    alt: "69th PVI Regiment",
-    subtitle: "American Civil War",
-    era: "1861 - 1865"
-  },
-  {
-    src: "/punic_war.jpg",
-    height: 960 * .8,
-    width: 1145 * .8,
-    alt: "Siege of Carthage",
-    subtitle: "Second Punic War",
-    era: "218 - 201 BC"
-  },
-  {
-    src: "/ww1_africa.jpg",
-    height: 576,
-    width: 792,
-    alt: "African Theater Regiment",
-    subtitle: "WW1 East African Theater",
-    era: "1914 - 1918"
-  }
-]
+import heroContent from "@/data/hero_content.json";
+import titleSlidesData from "@/data/title_slides.json";
+import { HeroCard } from "@/types/feature-card";
+import { TitleSlide } from "@/types/focus-carousel";
 
 export default function Home() {
   return (
@@ -75,7 +17,7 @@ export default function Home() {
             Step into the command tent to plot, negotiate, and rule to define not only your fate, but the shifting tides of history itself.
           </h2>
         </div>
-        {HeroContent.map((HeroItem: HeroCard, index: number) => {
+        {(heroContent as HeroCard[]).map((HeroItem, index) => {
           return (
             <FeatureCard
               key={index}
@@ -91,7 +33,7 @@ export default function Home() {
             />
           )
         })}
-        <FocusCarousel titleSlides={TitleSlides} />
+        <FocusCarousel titleSlides={titleSlidesData as TitleSlide[]} />
       </div>
     </main>
   );

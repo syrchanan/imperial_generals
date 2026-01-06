@@ -15,7 +15,8 @@
   - [X] Remove sign-in placeholders; replace button with "Join the Game" linking to Discord (https://discord.gg/Hx4CfcMnkK)
   - [ ] Rules Reference: clear, organized, easy to navigate (markdown/JSON)
   - [X] Game Map: static image(s) in `/public`, or interactive (optional)
-  - [ ] Features/News/Changelog: highlight new mechanics/updates
+  - [ ] Features/News/Changelog: highlight new mechanics/updates; make sure labels stay centered if there is a line break
+  - [X] Remove badge in /war-room cards for mobile layouts
 - [ ] Add Calculator tool:
   - [ ] Define and create `/data/costs.json` data file
   - [ ] Implement calculator UI: select/add/remove item(s), running total

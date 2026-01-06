@@ -1,0 +1,34 @@
+[
+  {
+    "src": "/eagle.svg",
+    "height": 300,
+    "width": 300,
+    "alt": "Napoleonic Eagle",
+    "subtitle": "Wars of the Coalition",
+    "era": "1802 - 1815"
+  },
+  {
+    "src": "/civil_war.jpg",
+    "height": 543,
+    "width": 952,
+    "alt": "69th PVI Regiment",
+    "subtitle": "American Civil War",
+    "era": "1861 - 1865"
+  },
+  {
+    "src": "/punic_war.jpg",
+    "height": 768,
+    "width": 916,
+    "alt": "Siege of Carthage",
+    "subtitle": "Second Punic War",
+    "era": "218 - 201 BC"
+  },
+  {
+    "src": "/ww1_africa.jpg",
+    "height": 576,
+    "width": 792,
+    "alt": "African Theater Regiment",
+    "subtitle": "WW1 East African Theater",
+    "era": "1914 - 1918"
+  }
+]

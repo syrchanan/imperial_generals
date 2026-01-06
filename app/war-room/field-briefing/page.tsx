@@ -18,6 +18,17 @@ export default function FieldBriefing() {
             className="w-full h-full rounded-lg shadow-lg"
           />
         </div>
+        <div className="mt-6 text-center text-sm text-muted-foreground">
+          If the embedded video does not work,{' '}
+          <a
+            href="https://www.youtube.com/watch?v=dEJ5va6JuNs"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline hover:text-accent-foreground"
+          >
+            click here to view on YouTube
+          </a>.
+        </div>
       </div>
     </main>
   );

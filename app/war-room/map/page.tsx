@@ -18,6 +18,17 @@ export default function Page() {
                         title="Imperial Generals Campaign Map"
                     />
                 </div>
+                <div className="mt-6 text-center text-sm text-muted-foreground">
+                  If the embedded map does not work,{' '}
+                  <a
+                    href="https://www.google.com/maps/d/u/0/viewer?mid=1t_ZaLrHasGcjf7nVakLD1VY3W3PV8cw&ehbc=2E312F&ll=48.80569%2C8.138&z=4"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="underline hover:text-accent-foreground"
+                  >
+                    click here to view the map
+                  </a>.
+                </div>
             </div>
         </main>
     );
