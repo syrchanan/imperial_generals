@@ -10,7 +10,7 @@ export default function EraPills({
   onChange: (eraId: string, eraTitle: string) => void;
 }) {
   return (
-    <div className="flex gap-2 flex-wrap mb-6 justify-center">
+    <div className="flex gap-2 flex-wrap mb-6 justify-start">
       {eras.map((era) => (
         <button
           key={era.id}

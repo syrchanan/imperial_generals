@@ -1,0 +1,23 @@
+{
+  "field-handbook": {
+    "sections": [
+      {
+        "icon": "FaClipboard",
+        "title": "No Handbook Available",
+        "html": "<p>A field handbook has not yet been created for this era.</p>"
+      }
+    ],
+    "footer": "If you believe this is an error or need instructions, ask an Admin."
+  },
+  "field-briefing": {
+    "video": null,
+    "sections": [
+      {
+        "icon": "FaChalkboardTeacher",
+        "title": "No Briefing Available",
+        "html": "<p>A field briefing has not yet been created for this era.</p><p>Check back later, or consult the <a href='/war-room/field-handbook' class='underline'>Field Handbook</a> for general instructions.</p>"
+      }
+    ],
+    "footer": "If you believe this is an error or need specific instructions, ask an Admin."
+  }
+}

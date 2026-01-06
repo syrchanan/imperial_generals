@@ -1,0 +1,72 @@
+{
+  "sections": [
+    {
+      "id": "featured",
+      "title": "Featured"
+    },
+    {
+      "id": "tools",
+      "title": "Tools"
+    },
+    {
+      "id": "reference",
+      "title": "Reference"
+    },
+    {
+      "id": "misc",
+      "title": "Miscellaneous"
+    }
+  ],
+  "content": [
+    {
+      "title": "Field Briefing",
+      "slug": "field-briefing",
+      "desc": "Watch the field briefing for mission-ready instructions and an intro to play.",
+      "icon": "FaChalkboardTeacher",
+      "section": "featured",
+      "eras": [
+        "*"
+      ]
+    },
+    {
+      "title": "Field Handbook",
+      "slug": "field-handbook",
+      "desc": "Quick reference guide for in-game rules and mechanics.",
+      "icon": "FaClipboard",
+      "section": "featured",
+      "eras": [
+        "civil-war"
+      ]
+    },
+    {
+      "title": "Ledgers & Rolls",
+      "slug": "ledgers-rolls",
+      "desc": "Calculate costs for regiments, forts, and more.",
+      "icon": "FaCalculator",
+      "section": "tools",
+      "eras": [
+        "civil-war"
+      ]
+    },
+    {
+      "title": "Officer's Manual",
+      "slug": "officers-manual",
+      "desc": "Official rules and guidelines.",
+      "icon": "FaBook",
+      "section": "reference",
+      "eras": [
+        "civil-war"
+      ]
+    },
+    {
+      "title": "Campaign Map",
+      "slug": "campaign-map",
+      "desc": "Browse current maps and territory.",
+      "icon": "FaMapMarkedAlt",
+      "section": "reference",
+      "eras": [
+        "civil-war"
+      ]
+    }
+  ]
+}

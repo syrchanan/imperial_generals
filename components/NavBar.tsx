@@ -72,7 +72,13 @@ export default function NavBar() {
                             Join the Game
                         </Link>
                     </Button>
-                    <NavLinks links={nav_links} nav_className="m-4" ul_className="flex flex-col align-middle items-center" li_className="my-2" />
+                    <NavLinks
+                        links={nav_links}
+                        nav_className="m-4"
+                        ul_className="flex flex-col align-middle items-center"
+                        li_className="my-2"
+                        onNavigate={() => setMenuOpen(false)}
+                    />
                 </div>
             </div>
         </div >
