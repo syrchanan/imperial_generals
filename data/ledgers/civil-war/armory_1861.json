@@ -1,0 +1,1632 @@
+[
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": ".22 Short",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": ".44 Henry",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": ".56-56 Spencer",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Buck and ball",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Canister shot",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Felling Axes, Hay Forks, Pickaxes, Shovel",
+    "Cost": 4.5,
+    "Upkeep": 1,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": "For Engineers/Pioneers"
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Friction primer",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Gunpowder",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Maynard tape primer",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Minie ball",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Paper cartridge",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Percussion cap",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Ammunition, cartridges \nand equipment",
+    "Name": "Ramrod",
+    "Cost": 0,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": 1813,
+    "Class": "Artillery",
+    "Name": "18-pounder long gun (naval carriage)",
+    "Cost": 225,
+    "Upkeep": 50,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1825,
+    "Class": "Artillery",
+    "Name": "Paixhans cannon",
+    "Cost": 257,
+    "Upkeep": 55,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1829,
+    "Class": "Artillery",
+    "Name": "James 32-pounder M1829 rifled cannon",
+    "Cost": 800,
+    "Upkeep": 150,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1839,
+    "Class": "Artillery",
+    "Name": "James 24-pounder M1839 rifled cannon",
+    "Cost": 700,
+    "Upkeep": 150,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1839,
+    "Class": "Artillery",
+    "Name": "Whistling Dick 18 pounder smoothbore gun",
+    "Cost": 200,
+    "Upkeep": 55,
+    "Side": "CSA",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1840,
+    "Class": "Artillery",
+    "Name": "8 inch Howitzer M1840",
+    "Cost": 175,
+    "Upkeep": 40,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1840,
+    "Class": "Artillery",
+    "Name": "Bomford Columbiad 10 inch cannon",
+    "Cost": 95,
+    "Upkeep": 55,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1841,
+    "Class": "Artillery",
+    "Name": "10-inch M1841 mortar",
+    "Cost": 100,
+    "Upkeep": 25,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1841,
+    "Class": "Artillery",
+    "Name": "12-pounder M1841 howitzer",
+    "Cost": 380,
+    "Upkeep": 70,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1841,
+    "Class": "Artillery",
+    "Name": "12-pounder M1841 mountain howitzer",
+    "Cost": 400,
+    "Upkeep": 120,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1841,
+    "Class": "Artillery",
+    "Name": "24-pounder M1841 howitzer",
+    "Cost": 625,
+    "Upkeep": 125,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1841,
+    "Class": "Artillery",
+    "Name": "42-pounder Gun M1841",
+    "Cost": 225,
+    "Upkeep": 50,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1841,
+    "Class": "Artillery",
+    "Name": "6-pounder M1841 field cannon",
+    "Cost": 342,
+    "Upkeep": 58,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1841,
+    "Class": "Artillery",
+    "Name": "8-inch M1841 mortar",
+    "Cost": 90,
+    "Upkeep": 20,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1841,
+    "Class": "Artillery",
+    "Name": "Coehorn 5.82-inch M1841 mortar",
+    "Cost": 50,
+    "Upkeep": 19,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1841,
+    "Class": "Artillery",
+    "Name": "James 42-pounder M1841 rifled cannon",
+    "Cost": 900,
+    "Upkeep": 200,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1844,
+    "Class": "Artillery",
+    "Name": "32-pounder M1844 howitzer",
+    "Cost": 725,
+    "Upkeep": 125,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1845,
+    "Class": "Artillery",
+    "Name": "Rodman Columbiad 10 inch cannon",
+    "Cost": 241,
+    "Upkeep": 40,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1850,
+    "Class": "Artillery",
+    "Name": "Blakely Rifle 12 pounder rifled gun",
+    "Cost": 120,
+    "Upkeep": 45,
+    "Side": "CSA",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1855,
+    "Class": "Artillery",
+    "Name": "Dahlgren cannon 11 inch",
+    "Cost": 350,
+    "Upkeep": 70,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1855,
+    "Class": "Artillery",
+    "Name": "Dahlgren cannon 50 pound",
+    "Cost": 400,
+    "Upkeep": 80,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1855,
+    "Class": "Artillery",
+    "Name": "Dahlgren cannon 8 inch",
+    "Cost": 200,
+    "Upkeep": 40,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1855,
+    "Class": "Artillery",
+    "Name": "Whitworth 12-pounder rifled cannon",
+    "Cost": 120,
+    "Upkeep": 45,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1855,
+    "Class": "Artillery",
+    "Name": "Widow Blakely 42 pounder",
+    "Cost": 375,
+    "Upkeep": 40,
+    "Side": "CSA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1857,
+    "Class": "Artillery",
+    "Name": "12-pounder M1857 Napoleon field cannon",
+    "Cost": 330,
+    "Upkeep": 125,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1859,
+    "Class": "Artillery",
+    "Name": "Blakely rifled cannon",
+    "Cost": 375,
+    "Upkeep": 100,
+    "Side": "CSA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1859,
+    "Class": "Artillery",
+    "Name": "Whitworth 70-pounder rifled cannon",
+    "Cost": 400,
+    "Upkeep": 75,
+    "Side": "All",
+    "Rating": 2,
+    "Notes": ""
+  },
+  {
+    "Year": 1860,
+    "Class": "Artillery",
+    "Name": "64 pounder gun smoothbore",
+    "Cost": 700,
+    "Upkeep": 50,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Artillery",
+    "Name": "James 14-pounder M1861 rifled cannon",
+    "Cost": 475,
+    "Upkeep": 125,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Artillery",
+    "Name": "James 3.8-inch M1861 rifled cannon",
+    "Cost": 450,
+    "Upkeep": 100,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Artillery",
+    "Name": "James 6-pounder M1861 rifled cannon",
+    "Cost": 450,
+    "Upkeep": 100,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Artillery",
+    "Name": "Ordnance 3-inch M1861 rifled cannon",
+    "Cost": 359,
+    "Upkeep": 88,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Artillery",
+    "Name": "Ordnance 4.5-inch rifled cannon",
+    "Cost": 450,
+    "Upkeep": 100,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Artillery",
+    "Name": "Parrott 10-pounder M1861 rifled cannon",
+    "Cost": 180,
+    "Upkeep": 44,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Artillery",
+    "Name": "Parrott 20-pounder M1861 rifled cannon",
+    "Cost": 200,
+    "Upkeep": 55,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Artillery",
+    "Name": "Parrott 30-pounder M1861 rifled cannon",
+    "Cost": 300,
+    "Upkeep": 75,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Buildings",
+    "Name": "Railroad (per mile)",
+    "Cost": 5000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Allows units to operate in non-state territories for 50 miles."
+  },
+  {
+    "Year": "",
+    "Class": "Buildings",
+    "Name": "Factory",
+    "Cost": 110000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Needed when admin says so"
+  },
+  {
+    "Year": "",
+    "Class": "Buildings",
+    "Name": "Armory",
+    "Cost": 110000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Needed when admin says so"
+  },
+  {
+    "Year": "",
+    "Class": "Buildings",
+    "Name": "Prison Camp",
+    "Cost": 200000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Can hold 10,000 POWs, comes with guards"
+  },
+  {
+    "Year": "",
+    "Class": "Buildings",
+    "Name": "Small fort",
+    "Cost": 50000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Can hold 2000 men & 12 guns, comes with 250 men & 3 guns"
+  },
+  {
+    "Year": "",
+    "Class": "Buildings",
+    "Name": "Medium Fort",
+    "Cost": 125000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Can hold 6000 men & 32 guns"
+  },
+  {
+    "Year": "",
+    "Class": "Buildings",
+    "Name": "Large fort",
+    "Cost": 300000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Can hold 15000 men & 72 guns"
+  },
+  {
+    "Year": "",
+    "Class": "Buildings",
+    "Name": "Supply Hub",
+    "Cost": 50000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Allows units to operate in non-state territories for 200 miles."
+  },
+  {
+    "Year": 1400,
+    "Class": "Edged weapons",
+    "Name": "Lance",
+    "Cost": 1,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": "Bonus against enemy cavalry"
+  },
+  {
+    "Year": 1600,
+    "Class": "Edged weapons",
+    "Name": "Bayonet",
+    "Cost": 1,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1670,
+    "Class": "Edged weapons",
+    "Name": "Szabla",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1805,
+    "Class": "Edged weapons",
+    "Name": "Mameluke sword",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1827,
+    "Class": "Edged weapons",
+    "Name": "Bowie knife",
+    "Cost": 1,
+    "Upkeep": 0,
+    "Side": "CSA",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1832,
+    "Class": "Edged weapons",
+    "Name": "Arkansas toothpick",
+    "Cost": 1,
+    "Upkeep": 0,
+    "Side": "CSA",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1832,
+    "Class": "Edged weapons",
+    "Name": "M1832 foot artillery sword",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1833,
+    "Class": "Edged weapons",
+    "Name": "M1833 dragoon saber",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1840,
+    "Class": "Edged weapons",
+    "Name": "M1840 army noncommissioned officer's sword",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1840,
+    "Class": "Edged weapons",
+    "Name": "M1840 cavalry saber",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1840,
+    "Class": "Edged weapons",
+    "Name": "M1840 light artillery saber",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1850,
+    "Class": "Edged weapons",
+    "Name": "M1850 army foot officer's sword",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1850,
+    "Class": "Edged weapons",
+    "Name": "M1850 army staff & field officer's sword",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1852,
+    "Class": "Edged weapons",
+    "Name": "M1852 naval officer's sword",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1859,
+    "Class": "Edged weapons",
+    "Name": "USMC noncommissioned officer's sword",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1860,
+    "Class": "Edged weapons",
+    "Name": "M1860 cutlass",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1860,
+    "Class": "Edged weapons",
+    "Name": "M1860 light cavalry saber",
+    "Cost": 2,
+    "Upkeep": 0,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Mount",
+    "Name": "Camel",
+    "Cost": "",
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Gift or bought from an NPC"
+  },
+  {
+    "Year": "",
+    "Class": "Mount",
+    "Name": "Clydesdale Horse",
+    "Cost": 220,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Mount",
+    "Name": "Elephant",
+    "Cost": "",
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": "",
+    "Notes": "Gift or bought from an NPC"
+  },
+  {
+    "Year": "",
+    "Class": "Mount",
+    "Name": "Good Horse",
+    "Cost": 110,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Mount",
+    "Name": "Old Horse",
+    "Cost": 40,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Mount",
+    "Name": "Saddle Horse/Warhorse",
+    "Cost": 200,
+    "Upkeep": 4,
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Mount",
+    "Name": "Work Horse",
+    "Cost": 150,
+    "Upkeep": 4,
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": 1804,
+    "Class": "Other weapons",
+    "Name": "Congreve Rocket",
+    "Cost": 8,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "Consumable (one use)"
+  },
+  {
+    "Year": 1835,
+    "Class": "Other weapons",
+    "Name": "Double-barreled shotgun",
+    "Cost": 10,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1849,
+    "Class": "Other weapons",
+    "Name": "Coach gun",
+    "Cost": 17,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Resources",
+    "Name": "Mines (gold, lead, etc.)",
+    "Cost": 80000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Resources",
+    "Name": "Farms/Plantations",
+    "Cost": 55000,
+    "Upkeep": "",
+    "Side": "All",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Resources",
+    "Name": "Slaves, Perfect Healthy Adult",
+    "Cost": 2000,
+    "Upkeep": 1,
+    "Side": "CSA",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Resources",
+    "Name": "Slaves, Healthy Adult",
+    "Cost": 1500,
+    "Upkeep": 1,
+    "Side": "CSA",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Resources",
+    "Name": "Slaves, Aging Adult",
+    "Cost": 1000,
+    "Upkeep": 1,
+    "Side": "CSA",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": "",
+    "Class": "Resources",
+    "Name": "Slaves, Elderly Adult",
+    "Cost": 250,
+    "Upkeep": 1,
+    "Side": "CSA",
+    "Rating": "",
+    "Notes": ""
+  },
+  {
+    "Year": 1795,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1795 musket",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1803,
+    "Class": "Rifles and muskets",
+    "Name": "Harper Ferry M1803 rifle",
+    "Cost": 7,
+    "Upkeep": 2,
+    "Side": "All",
+    "Rating": -2,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1812,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1812 musket",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1814,
+    "Class": "Rifles and muskets",
+    "Name": "Deringer M1814 Common rifle",
+    "Cost": 7,
+    "Upkeep": 2,
+    "Side": "CSA",
+    "Rating": -2,
+    "Notes": "20,000 till june 61"
+  },
+  {
+    "Year": 1816,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1816 musket",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1816,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1816 musket (flintlock)",
+    "Cost": 7,
+    "Upkeep": 2,
+    "Side": "All",
+    "Rating": -2,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1817,
+    "Class": "Rifles and muskets",
+    "Name": "Deringer M1817 Common rifle",
+    "Cost": 7,
+    "Upkeep": 2,
+    "Side": "All",
+    "Rating": -2,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1819,
+    "Class": "Rifles and muskets",
+    "Name": "Hall M1819 rifle",
+    "Cost": 7,
+    "Upkeep": 2,
+    "Side": "All",
+    "Rating": -2,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1822,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1822 musket",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1822,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1822 musket (flintlock)",
+    "Cost": 7,
+    "Upkeep": 2,
+    "Side": "All",
+    "Rating": -2,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1823,
+    "Class": "Rifles and muskets",
+    "Name": "Hawken Rifle",
+    "Cost": 23,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "20,000 per side till june 61"
+  },
+  {
+    "Year": 1831,
+    "Class": "Rifles and muskets",
+    "Name": "Potzdam M1831 musket",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": -1,
+    "Notes": "20,000 till june 61"
+  },
+  {
+    "Year": 1835,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1835 musket",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "50,000 per side till june 61"
+  },
+  {
+    "Year": 1836,
+    "Class": "Rifles and muskets",
+    "Name": "Brunswick P1836 and P1841 rifle",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "CSA",
+    "Rating": 0,
+    "Notes": "40,000 till june 61"
+  },
+  {
+    "Year": 1839,
+    "Class": "Rifles and muskets",
+    "Name": "P1839 Brown Bess musket",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "50,000 per side till june 61"
+  },
+  {
+    "Year": 1840,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1840 musket",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "50,000 per side till june 61"
+  },
+  {
+    "Year": 1841,
+    "Class": "Rifles and muskets",
+    "Name": "Jenks M1841 Mule ear carbine",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": "5,000 per side till june 61"
+  },
+  {
+    "Year": 1841,
+    "Class": "Rifles and muskets",
+    "Name": "Mississippi M1841 rifle",
+    "Cost": 18,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "50,000 per side till june 61"
+  },
+  {
+    "Year": 1842,
+    "Class": "Rifles and muskets",
+    "Name": "Augustin M1842 musket",
+    "Cost": 14,
+    "Upkeep": 3,
+    "Side": "CSA",
+    "Rating": 0,
+    "Notes": "40,000 till june 61"
+  },
+  {
+    "Year": 1842,
+    "Class": "Rifles and muskets",
+    "Name": "P1842 Brown Bess musket",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "50,000 per side till june 61"
+  },
+  {
+    "Year": 1842,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield Model 1842 (Smoothbore)",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "50,000 per side till june 61"
+  },
+  {
+    "Year": 1843,
+    "Class": "Rifles and muskets",
+    "Name": "Hall-North M1843 carbine",
+    "Cost": 25,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": "5,000 till june 61"
+  },
+  {
+    "Year": 1847,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1847 musketoon",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "50,000 per side till june 61"
+  },
+  {
+    "Year": 1848,
+    "Class": "Rifles and muskets",
+    "Name": "Sharps M1848 carbine rifle",
+    "Cost": 30,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": "5,000 per side till june 61"
+  },
+  {
+    "Year": 1850,
+    "Class": "Rifles and muskets",
+    "Name": "Sharps M1850 carbine rifle",
+    "Cost": 30,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "2,000 per side till june 61"
+  },
+  {
+    "Year": 1851,
+    "Class": "Rifles and muskets",
+    "Name": "Maynard M1851 carbine",
+    "Cost": 24,
+    "Upkeep": 4,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": "2,000 till june 61"
+  },
+  {
+    "Year": 1851,
+    "Class": "Rifles and muskets",
+    "Name": "Sharps M1851 carbine rifle",
+    "Cost": 30,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "5,000 per side till june 61"
+  },
+  {
+    "Year": 1852,
+    "Class": "Rifles and muskets",
+    "Name": "Sharps M1852 carbine rifle",
+    "Cost": 30,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "5,000 per side till june 61"
+  },
+  {
+    "Year": 1853,
+    "Class": "Rifles and muskets",
+    "Name": "Enfield P1853 Musket",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "15,000 per side till june 61"
+  },
+  {
+    "Year": 1853,
+    "Class": "Rifles and muskets",
+    "Name": "Sharps M1853 carbine rifle",
+    "Cost": 30,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "5,000 per side till june 61"
+  },
+  {
+    "Year": 1854,
+    "Class": "Rifles and muskets",
+    "Name": "Lorenz M1854 rifled musket",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": "50,000 per side till June 61"
+  },
+  {
+    "Year": 1855,
+    "Class": "Rifles and muskets",
+    "Name": "Burnside M1855 carbine",
+    "Cost": 26,
+    "Upkeep": 4,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": "2,000 till june 61"
+  },
+  {
+    "Year": 1855,
+    "Class": "Rifles and muskets",
+    "Name": "Colt M1855 revolver carbine and rifle",
+    "Cost": 45,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": -1,
+    "Notes": "2,000 till june 61"
+  },
+  {
+    "Year": 1855,
+    "Class": "Rifles and muskets",
+    "Name": "Joslyn M1855 carbine and rifle",
+    "Cost": 24,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": "2,000 till june 61"
+  },
+  {
+    "Year": 1855,
+    "Class": "Rifles and muskets",
+    "Name": "Sharps M1855 carbine rifle",
+    "Cost": 30,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": "5,000 per side till june 61"
+  },
+  {
+    "Year": 1855,
+    "Class": "Rifles and muskets",
+    "Name": "Springfield M1855 rifled musket",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": "50,000 per side till june 61"
+  },
+  {
+    "Year": 1857,
+    "Class": "Rifles and muskets",
+    "Name": "Smith M1857 carbine",
+    "Cost": 25,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": "2,000 per side till june 61"
+  },
+  {
+    "Year": 1857,
+    "Class": "Rifles and muskets",
+    "Name": "Whitworth P1857 rifle",
+    "Cost": 120,
+    "Upkeep": 5,
+    "Side": "CSA",
+    "Rating": 1,
+    "Notes": "2,000 till june 61"
+  },
+  {
+    "Year": 1858,
+    "Class": "Rifles and muskets",
+    "Name": "Merrill M1858 carbine",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": "2,000 till june 61"
+  },
+  {
+    "Year": 1858,
+    "Class": "Rifles and muskets",
+    "Name": "Starr M1858 carbine",
+    "Cost": 25,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": "5,000 per side till june 61"
+  },
+  {
+    "Year": 1859,
+    "Class": "Rifles and muskets",
+    "Name": "Sharps M1859 carbine rifle",
+    "Cost": 30,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": "5,000 per side till june 61"
+  },
+  {
+    "Year": 1859,
+    "Class": "Rifles and muskets",
+    "Name": "Wesson M1859 carbine rifle",
+    "Cost": 25,
+    "Upkeep": 11,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": "2,000 till june 61"
+  },
+  {
+    "Year": 1860,
+    "Class": "Rifles and muskets",
+    "Name": "Henry M1860 repeating rifle",
+    "Cost": 63,
+    "Upkeep": 15,
+    "Side": "All",
+    "Rating": 2,
+    "Notes": "Limited to 100 per side till 62"
+  },
+  {
+    "Year": 1860,
+    "Class": "Rifles and muskets",
+    "Name": "Spencer M1860 repeating carbine rifle",
+    "Cost": 40,
+    "Upkeep": 15,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": "2,000 till june 61"
+  },
+  {
+    "Year": 1861,
+    "Class": "Rifles and muskets",
+    "Name": "Gallager M1861 carbine rifle",
+    "Cost": 25,
+    "Upkeep": 4,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": "2,000 till june 61"
+  },
+  {
+    "Year": 1825,
+    "Class": "Sidearms",
+    "Name": "Deringer M1825 Philadelphia caplock pistol",
+    "Cost": 8,
+    "Upkeep": 2,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1836,
+    "Class": "Sidearms",
+    "Name": "Colt M1836 Paterson revolver",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1836,
+    "Class": "Sidearms",
+    "Name": "Harpers Ferry M1836 and M1842 pistol",
+    "Cost": 10,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1837,
+    "Class": "Sidearms",
+    "Name": "Allen & Thurber M1837 revolver pepperbox",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1838,
+    "Class": "Sidearms",
+    "Name": "Elgin M1838 cutlass caplock pistol",
+    "Cost": 11,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": -1,
+    "Notes": ""
+  },
+  {
+    "Year": 1847,
+    "Class": "Sidearms",
+    "Name": "Colt M1847 Walker revolver",
+    "Cost": 25,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1848,
+    "Class": "Sidearms",
+    "Name": "Colt M1848 Dragoon revolver",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1849,
+    "Class": "Sidearms",
+    "Name": "Colt M1849 Pocket revolver",
+    "Cost": 15,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1850,
+    "Class": "Sidearms",
+    "Name": "Wesson and Leavitt M1850 Dragoon revolver",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1851,
+    "Class": "Sidearms",
+    "Name": "Adams M1851 revolver",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "CSA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1851,
+    "Class": "Sidearms",
+    "Name": "Colt M1851 Navy revolver",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1854,
+    "Class": "Sidearms",
+    "Name": "Lefaucheux M1854 revolver",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1855,
+    "Class": "Sidearms",
+    "Name": "Butterfield M1855 transitional revolver",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1855,
+    "Class": "Sidearms",
+    "Name": "Colt Root M1855 revolver",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1855,
+    "Class": "Sidearms",
+    "Name": "Kerr M1855 revolver",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "CSA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1855,
+    "Class": "Sidearms",
+    "Name": "Volcanic M1855 repeating pistol",
+    "Cost": 16,
+    "Upkeep": 5,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1856,
+    "Class": "Sidearms",
+    "Name": "LeMat M1856 revolver",
+    "Cost": 16,
+    "Upkeep": 4,
+    "Side": "CSA",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1856,
+    "Class": "Sidearms",
+    "Name": "Tranter M1856 revolver",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "CSA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1857,
+    "Class": "Sidearms",
+    "Name": "Smith & Wesson Model 1",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1857,
+    "Class": "Sidearms",
+    "Name": "Whitney M1857 revolver",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1858,
+    "Class": "Sidearms",
+    "Name": "Lefaucheux M1858 revolver",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1858,
+    "Class": "Sidearms",
+    "Name": "Remington M1858 revolver",
+    "Cost": 14,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1858,
+    "Class": "Sidearms",
+    "Name": "Starr M1858 revolver",
+    "Cost": 12,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1859,
+    "Class": "Sidearms",
+    "Name": "Walch M1859 revolver",
+    "Cost": 16,
+    "Upkeep": 4,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1860,
+    "Class": "Sidearms",
+    "Name": "Colt M1860 Army revolver",
+    "Cost": 20,
+    "Upkeep": 3,
+    "Side": "All",
+    "Rating": 1,
+    "Notes": ""
+  },
+  {
+    "Year": 1860,
+    "Class": "Sidearms",
+    "Name": "Remington M1860 Elliot revolver pepperbox",
+    "Cost": 4,
+    "Upkeep": 2,
+    "Side": "All",
+    "Rating": -2,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Sidearms",
+    "Name": "Allen & Wheelock M1861 revolver",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": 0,
+    "Notes": ""
+  },
+  {
+    "Year": 1861,
+    "Class": "Sidearms",
+    "Name": "Smith & Wesson Model 2 Army",
+    "Cost": 13,
+    "Upkeep": 3,
+    "Side": "USA",
+    "Rating": 1,
+    "Notes": ""
+  }
+]
