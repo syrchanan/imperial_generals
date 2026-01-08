@@ -158,6 +158,20 @@
       ],
       "iframe": "https://www.google.com/maps/d/u/0/embed?mid=1zHkN-Jy2YwI5qqbMlN726s8SwLcb-z0&ehbc=2E312F",
       "footer": "Preview and zoom/pan the campaign map. For best experience, especially on mobile, open <a href='https://www.google.com/maps/d/u/0/viewer?mid=1zHkN-Jy2YwI5qqbMlN726s8SwLcb-z0&ll=36.98389310098345%2C-86.70727765&z=6' rel='noopener noreferrer' target='_blank' class='underline'>in a new tab</a>."
+    },
+    {
+      "eras": [
+        "napoleonics"
+      ],
+      "iframe": "https://www.google.com/maps/d/embed?mid=1t_ZaLrHasGcjf7nVakLD1VY3W3PV8cw&ehbc=2E312F",
+      "footer": "Preview and zoom/pan the campaign map. For best experience, especially on mobile, open <a href='https://www.google.com/maps/d/u/0/viewer?mid=1t_ZaLrHasGcjf7nVakLD1VY3W3PV8cw&ll=43.20859334570293%2C11.201254596256954&z=5' rel='noopener noreferrer' target='_blank' class='underline'>in a new tab</a>."
+    },
+    {
+      "eras": [
+        "ww1"
+      ],
+      "iframe": "https://www.google.com/maps/d/embed?mid=1KhTyeUNMN0qajDL3fvbdjUIEirGV29o&ehbc=2E312F",
+      "footer": "Preview and zoom/pan the campaign map. For best experience, especially on mobile, open <a href='https://www.google.com/maps/d/u/0/viewer?mid=1KhTyeUNMN0qajDL3fvbdjUIEirGV29o&ll=49.350775335652614%2C6.492980956249994&z=6' rel='noopener noreferrer' target='_blank' class='underline'>in a new tab</a>."
     }
   ]
 }
