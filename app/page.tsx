@@ -8,7 +8,7 @@ import { TitleSlide } from "@/types/focus-carousel";
 export default function Home() {
   return (
     <main className="p-12">
-      <div className="flex flex-col justify-center align-middle w-4/5 mx-auto">
+      <div className="flex flex-col justify-center align-middle w-full max-w-6xl mx-auto">
         <div className="m-auto text-center flex flex-col space-y-4 p-2">
           <h1 className="text-4xl font-bold text-center mb-2">
             Imperial Generals: <i>History is Your Battlefield</i>
