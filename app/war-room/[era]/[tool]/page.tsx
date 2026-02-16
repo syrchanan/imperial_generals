@@ -7,6 +7,7 @@ import FieldBriefingPage from "@/components/FieldBriefingPage";
 import CampaignMapPage from "@/components/CampaignMapPage";
 import LedgersRollsPage from "@/components/LedgersRollsPage";
 import ForageAheadPage from "@/components/ForageAheadPage";
+import TelegraphOfficePage from "@/components/TelegraphOfficePage";
 import { ReactElement } from "react";
 
 interface Era {
@@ -69,6 +70,9 @@ const TOOL_COMPONENTS: Record<string, ToolComponentFn> = {
   ),
   "ledgers-rolls": (eraObj, era) => (
     <LedgersRollsPage eraObj={eraObj} />
+  ),
+  "telegraph-office": () => (
+    <TelegraphOfficePage />
   ),
   "forage-ahead": (eraObj, era) => (
     <ForageAheadPage />

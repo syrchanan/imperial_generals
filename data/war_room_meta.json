@@ -67,6 +67,16 @@
       ]
     },
     {
+      "title": "Telegraph Office",
+      "slug": "telegraph-office",
+      "desc": "Encode and decode messages using the Phillips telegraph shorthand.",
+      "icon": "FaBroadcastTower",
+      "section": "tools",
+      "eras": [
+        "*"
+      ]
+    },
+    {
       "title": "Forage Ahead",
       "slug": "forage-ahead",
       "desc": "Tabletop game created by one of our Admins!",
