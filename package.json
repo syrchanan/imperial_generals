@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "deploy": "npm run build && type NUL > out\\.nojekyll && echo www.imperial-generals.connorhanan.com > out\\CNAME && gh-pages -d out --dotfiles",
+    "deploy": "npm run build && type NUL > out\\.nojekyll && echo imperial-generals.connorhanan.com > out\\CNAME && gh-pages -d out --dotfiles",
     "clean": "node -e \"require('fs').rmSync('out', { recursive: true, force: true })\"",
     "start": "next start",
     "lint": "next lint"
