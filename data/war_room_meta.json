@@ -35,7 +35,8 @@
       "icon": "FaClipboard",
       "section": "featured",
       "eras": [
-        "civil-war"
+        "civil-war",
+        "napoleonics"
       ]
     },
     {
@@ -62,6 +63,16 @@
       "desc": "Browse current maps and territory.",
       "icon": "FaMapMarkedAlt",
       "section": "reference",
+      "eras": [
+        "*"
+      ]
+    },
+    {
+      "title": "Order of Battles",
+      "slug": "order-of-battles",
+      "desc": "Reference and track unit orders of battle for your forces.",
+      "icon": "FaTable",
+      "section": "tools",
       "eras": [
         "*"
       ]

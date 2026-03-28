@@ -140,6 +140,211 @@
         }
       ],
       "footer": "For full details or clarifications, see the <a href=\"/war-room/officers-manual\" class=\"underline\">Officer’s Manual</a> or consult an Admin."
+    },
+    {
+      "eras": ["napoleonics"],
+      "headerLink": {
+        "text": "Full Ruleset (Google Doc)",
+        "href": "https://docs.google.com/document/d/1p0V1G-u0KEq4HQcsVoFiI5F4si1qWlN2pzIO8uKTyuc/edit?usp=sharing"
+      },
+      "sections": [
+        {
+          "icon": "FaChevronRight",
+          "title": "Overall Summary",
+          "items": [
+            {
+              "text": "Game begins <b>March 25, 1802</b>, immediately after the signing of the Treaty of Amiens."
+            },
+            {
+              "text": "Nine nations available for player control: <b>Great Britain, France, Prussia, Austria, Spain, the Ottoman Empire, USA, Sweden,</b> and <b>Russia</b>."
+            },
+            {
+              "text": "<b>Doctrine of Historical Plausibility</b> — all actions must be era-appropriate. Admins may halt or overturn ahistorical moves. Research your nation’s history."
+            },
+            {
+              "text": "Nothing is official unless posted in the correct threads. Orders that have been <b>edited will not be accepted</b>."
+            },
+            {
+              "text": "One turn is approximately <b>one month</b> in-game. Submit all orders each turn."
+            },
+            {
+              "text": "All existing historical treaties as of March 25, 1802 are in full effect at game start."
+            }
+          ]
+        },
+        {
+          "icon": "FaTrophy",
+          "title": "Victory Conditions",
+          "items": [
+            {
+              "text": "For most nations, <b>survival</b> = victory."
+            },
+            {
+              "text": "Hegemony nations win by placing themselves in a dominant position through alliances, conquest, and neutralizing rivals."
+            },
+            {
+              "text": "Nation-specific victory conditions are posted in your national tab — check with your Admin."
+            },
+            {
+              "text": "<i>Secondary and secret objectives exist — accomplishing these earns rewards.</i>"
+            }
+          ]
+        },
+        {
+          "icon": "FaFlag",
+          "title": "All Roles",
+          "items": [
+            {
+              "text": "Act within your role’s responsibilities and follow the chain of command."
+            },
+            {
+              "text": "All official diplomatic negotiations must be conducted on the forum, either publicly or by PM with the <b>Admin included</b>. Off-site agreements are invalid."
+            },
+            {
+              "text": "Troops take <b>3 months</b> to raise and be ready for active duty."
+            },
+            {
+              "text": "Upgrade weapons and equipment whenever possible for stronger units."
+            },
+            {
+              "text": "<b>Guard regiments</b> are earned through battlefield experience — they cannot be directly recruited."
+            }
+          ]
+        },
+        {
+          "icon": "FaCrown",
+          "title": "Leader",
+          "items": [
+            {
+              "text": "Set national policies and determine all official strategies."
+            },
+            {
+              "text": "Command armies personally in major battles and campaigns."
+            },
+            {
+              "text": "Appoint, promote, or dismiss generals, admirals, and diplomats."
+            },
+            {
+              "text": "Post all official government, military, budget, and diplomacy orders — with final say."
+            },
+            {
+              "text": "Coordinate with Admin for all legislation, treaties, and law changes."
+            }
+          ]
+        },
+        {
+          "icon": "FaUserShield",
+          "title": "General or Admiral",
+          "items": [
+            {
+              "text": "Lead armies or fleets as assigned. Post movement and battle orders in proper threads."
+            },
+            {
+              "text": "Follow the leader’s strategic goals or pursue your own — at risk of dismissal."
+            },
+            {
+              "text": "Reinforce, merge, split, and organize field units as needed. Reinforcing regiments must match type and equipment of the reinforced regiment."
+            },
+            {
+              "text": "Promotions and dismissals are at the Leader’s discretion."
+            }
+          ]
+        },
+        {
+          "icon": "FaMoneyCheckAlt",
+          "title": "Finances & Budget",
+          "items": [
+            {
+              "text": "Admins post an annual <b>Industrial and Financial Statement</b> listing revenues, debts, and interest."
+            },
+            {
+              "text": "<b>Gold</b> represents your military budget after mandatory expenses. It can be saved year-to-year, but never beyond the current year’s total revenue."
+            },
+            {
+              "text": "Full upkeep on all active units and debt interest must be paid as of <b>January 1</b> each year."
+            },
+            {
+              "text": "You may borrow money, raise taxes (with parliament consent if applicable), or exploit conquered territories to increase revenue."
+            },
+            {
+              "text": "You may transfer Gold to other powers — post the amount, recipient, and notify Admin immediately."
+            }
+          ]
+        },
+        {
+          "icon": "FaClipboard",
+          "title": "Raising Troops & Combat Stats",
+          "items": [
+            {
+              "text": "Troop types: <b>Line Infantry, Light Infantry, Irregulars, Heavy Cavalry, Light Cavalry, Artillery Batteries, Horse Artillery, Siege Batteries</b>, and nation-specific options."
+            },
+            {
+              "text": "All new regiments begin with inferior weapons (<b>-2 stat</b>) unless upgraded at additional cost."
+            },
+            {
+              "text": "<b>Experience:</b>",
+              "items": [
+                { "text": "1-2: Green, some training" },
+                { "text": "3-4: Trained, may have been under fire" },
+                { "text": "5-6: Been through a campaign" },
+                { "text": "7-8: Grizzled veterans" },
+                { "text": "9-10: Lucky survivors" }
+              ]
+            },
+            {
+              "text": "<b>Morale:</b>",
+              "items": [
+                { "text": "1-2: Desperate, plotting mutiny or desertion" },
+                { "text": "3-4: Disillusioned, prone to desertion" },
+                { "text": "5-6: Shaken, shell-shocked, or bored" },
+                { "text": "7-8: High-spirited, eager" },
+                { "text": "9-10: Patriotic exuberance!" }
+              ]
+            },
+            {
+              "text": "<b>Weapons:</b> -2 (unarmed/pike) → -1 (matchlock) → 0 (smoothbore musket) → +1 (rifled musket) → +2 (needler rifle)"
+            }
+          ]
+        },
+        {
+          "icon": "FaUserSecret",
+          "title": "National Bonuses",
+          "items": [
+            {
+              "text": "<b>France</b> — Units gain experience faster (the \"Immortals\" guard system)."
+            },
+            {
+              "text": "<b>Britain</b> — May recruit Congreve rocket artillery."
+            },
+            {
+              "text": "<b>Prussia</b> — May recruit superior line infantry."
+            },
+            {
+              "text": "<b>Austria</b> — Council of Electors votes increase legitimacy and reduce rebellion risk."
+            },
+            {
+              "text": "<b>Russia</b> — May recruit Cossack light cavalry."
+            },
+            {
+              "text": "<b>Spain</b> — Native and foreign auxiliaries are more effective in battle."
+            },
+            {
+              "text": "<b>Ottomans</b> — May recruit the Dardanelles Gun (2,000 lb siege cannon)."
+            },
+            {
+              "text": "<b>Sweden</b> — May recruit marine light infantry, especially effective in naval and amphibious operations."
+            }
+          ]
+        }
+      ],
+      "footer": "For full details or clarifications, see the <a href=’https://docs.google.com/document/d/1p0V1G-u0KEq4HQcsVoFiI5F4si1qWlN2pzIO8uKTyuc/edit?usp=sharing’ rel=’noopener noreferrer’ target=’_blank’ class=’underline’>Full Ruleset</a> or consult an Admin."
+    }
+  ],
+  "order-of-battles": [
+    {
+      "eras": ["*"],
+      "iframe": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRWBJTpzEaZRSj6Kl5KNBVfpvfjIX6oogPGYrLj52V_17Mf5yXBzgOcVNhL44pUh8Y5_3_5abjO-Dog/pubhtml?widget=true&headers=false",
+      "footer": "View and reference the OOB template. For full access and editing, open the <a href='https://docs.google.com/spreadsheets/d/13uA6M_O_hmAyhH_gIvT6ZR324dCwkEJRi3G5JrRK054/edit?usp=sharing' rel='noopener noreferrer' target='_blank' class='underline'>OOB Template</a> in a new tab."
     }
   ],
   "field-briefing": [
@@ -163,7 +368,7 @@
       "eras": [
         "napoleonics"
       ],
-      "iframe": "https://www.google.com/maps/d/embed?mid=1t_ZaLrHasGcjf7nVakLD1VY3W3PV8cw&ehbc=2E312F",
+      "iframe": "https://www.google.com/maps/d/u/0/embed?mid=1F8QC7KZTiExjCxUGkbKaoVObay-ModY&ehbc=2E312F",
       "footer": "Preview and zoom/pan the campaign map. For best experience, especially on mobile, open <a href='https://www.google.com/maps/d/u/0/viewer?mid=1t_ZaLrHasGcjf7nVakLD1VY3W3PV8cw&ll=43.20859334570293%2C11.201254596256954&z=5' rel='noopener noreferrer' target='_blank' class='underline'>in a new tab</a>."
     },
     {
