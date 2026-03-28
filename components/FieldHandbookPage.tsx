@@ -1,4 +1,4 @@
-import { FaClipboard, FaChevronRight, FaCrown, FaUserShield, FaMoneyCheckAlt, FaFlag, FaUserSecret, FaTrophy, FaArrowRight } from "react-icons/fa";
+import { FaClipboard, FaChevronRight, FaCrown, FaUserShield, FaMoneyCheckAlt, FaFlag, FaUserSecret, FaTrophy, FaArrowRight, FaHandshake } from "react-icons/fa";
 
 const iconMap: Record<string, any> = {
   FaClipboard,
@@ -9,6 +9,7 @@ const iconMap: Record<string, any> = {
   FaFlag,
   FaUserSecret,
   FaTrophy,
+  FaHandshake,
 };
 
 function renderItems(items: any[], depth = 0): JSX.Element {
@@ -41,21 +42,9 @@ export default function FieldHandbookPage({ eraObj, rules }: { eraObj: any, rule
             </span>
           )}
         </h1>
-        <h2 className="mb-4 text-lg text-muted-foreground font-serif">
+        <h2 className="mb-8 text-lg text-muted-foreground font-serif">
           Your campaign cheat sheet: the essential rules and roles for fast reference in play. For full detail, see the <a href="/war-room/officers-manual" className="underline">Officer’s Manual</a>.
         </h2>
-        {rules?.headerLink && (
-          <p className="mb-8 text-sm font-serif">
-            <a
-              href={rules.headerLink.href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="underline text-accent"
-            >
-              {rules.headerLink.text} ↗
-            </a>
-          </p>
-        )}
         {(rules?.sections as any[] ?? []).map(({ icon, title, items, html }) => {
           const Icon = iconMap[icon] ?? FaClipboard;
           return (

@@ -150,10 +150,6 @@
     },
     {
       "eras": ["napoleonics"],
-      "headerLink": {
-        "text": "Officer's Manual — Full Ruleset",
-        "href": "/war-room/napoleonics/officers-manual"
-      },
       "sections": [
         {
           "icon": "FaChevronRight",
@@ -244,7 +240,7 @@
           "title": "Finances & Budget",
           "items": [
             {
-              "text": "Admins post an annual <b>Industrial and Financial Statement</b> listing revenues, debts, and interest."
+              "text": "Admins post an annual <b>Financial Statement</b> listing revenues, debts, and interest."
             },
             {
               "text": "<b>Gold</b> represents your military budget after mandatory expenses. It can be saved year-to-year, but never beyond the current year’s total revenue."
@@ -257,6 +253,34 @@
             },
             {
               "text": "You may transfer Gold to other powers — post the amount, recipient, and notify Admin immediately."
+            }
+          ]
+        },
+        {
+          "icon": "FaHandshake",
+          "title": "Casus Belli & Treaties",
+          "items": [
+            {
+              "text": "You must have a valid <b>casus belli</b> to declare war. Declaring war without one will incur diplomatic penalties. Valid causes include:",
+              "items": [
+                { "text": "Broken treaty or alliance obligation" },
+                { "text": "Border dispute or territorial claim" },
+                { "text": "Support of a pretender or dynastic claim" },
+                { "text": "Defense of an ally under attack" },
+                { "text": "Retaliation for an act of aggression" }
+              ]
+            },
+            {
+              "text": "All declarations of war and peace offers must be posted in official threads with <b>Admin included</b>."
+            },
+            {
+              "text": "<b>Peace treaties</b> require agreed terms posted by both parties. Admins must ratify. Possible terms include territorial cession, indemnity payments, release of prisoners, and trade concessions."
+            },
+            {
+              "text": "<b>Alliance and non-aggression treaties</b> take effect only after both parties post acceptance. They are binding until formally dissolved or broken — breaking a treaty without cause grants casus belli to the aggrieved party."
+            },
+            {
+              "text": "Secret clauses are permitted in treaties but <b>must be included in the Admin PM</b> at signing. Secret clauses revealed after the fact are not binding."
             }
           ]
         },
@@ -291,7 +315,14 @@
               ]
             },
             {
-              "text": "<b>Weapons:</b> -2 (unarmed/pike) → -1 (matchlock) → 0 (smoothbore musket) → +1 (rifled musket) → +2 (needler rifle)"
+              "text": "<b>Weapons:</b>",
+              "items": [
+                { "text": "-2: Unarmed or pike" },
+                { "text": "-1: Smoothbore matchlock" },
+                { "text": "0: Smoothbore musket" },
+                { "text": "+1: Rifled musket" },
+                { "text": "+2: Needler rifle" }
+              ]
             }
           ]
         },
