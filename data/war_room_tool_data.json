@@ -1,7 +1,9 @@
 {
   "officers-manual": [
     {
-      "eras": ["napoleonics"],
+      "eras": [
+        "napoleonics"
+      ],
       "iframe": "https://docs.google.com/document/d/1p0V1G-u0KEq4HQcsVoFiI5F4si1qWlN2pzIO8uKTyuc/preview",
       "footer": "For full access or to suggest edits, <a href='https://docs.google.com/document/d/1p0V1G-u0KEq4HQcsVoFiI5F4si1qWlN2pzIO8uKTyuc/edit?usp=sharing' rel='noopener noreferrer' target='_blank' class='underline'>open in Google Docs</a>."
     }
@@ -146,10 +148,12 @@
           ]
         }
       ],
-      "footer": "For full details or clarifications, see the <a href=\"/war-room/officers-manual\" class=\"underline\">Officer’s Manual</a> or consult an Admin."
+      "footer": "For full details or clarifications, consult an Admin."
     },
     {
-      "eras": ["napoleonics"],
+      "eras": [
+        "napoleonics"
+      ],
       "sections": [
         {
           "icon": "FaChevronRight",
@@ -261,23 +265,13 @@
           "title": "Casus Belli & Treaties",
           "items": [
             {
-              "text": "You must have a valid <b>casus belli</b> to declare war. Declaring war without one will incur diplomatic penalties. Valid causes include:",
-              "items": [
-                { "text": "Broken treaty or alliance obligation" },
-                { "text": "Border dispute or territorial claim" },
-                { "text": "Support of a pretender or dynastic claim" },
-                { "text": "Defense of an ally under attack" },
-                { "text": "Retaliation for an act of aggression" }
-              ]
+              "text": "You must have a valid <b>casus belli</b> to declare war. Wars launched without formal declaration and/or without proving diplomatic or political cause may result in domestic unrest or other unforeseen consequences."
             },
             {
-              "text": "All declarations of war and peace offers must be posted in official threads with <b>Admin included</b>."
+              "text": "Players may manufacture claims and casus belli via game mechanics — you need not wait for a treaty to be broken."
             },
             {
-              "text": "<b>Peace treaties</b> require agreed terms posted by both parties. Admins must ratify. Possible terms include territorial cession, indemnity payments, release of prisoners, and trade concessions."
-            },
-            {
-              "text": "<b>Alliance and non-aggression treaties</b> take effect only after both parties post acceptance. They are binding until formally dissolved or broken — breaking a treaty without cause grants casus belli to the aggrieved party."
+              "text": "All treaties must be negotiated and posted with <b>Admin included</b>. Nothing takes effect until the treaty is ratified by the Admin."
             },
             {
               "text": "Secret clauses are permitted in treaties but <b>must be included in the Admin PM</b> at signing. Secret clauses revealed after the fact are not binding."
@@ -297,31 +291,61 @@
             {
               "text": "<b>Experience:</b>",
               "items": [
-                { "text": "1-2: Green, some training" },
-                { "text": "3-4: Trained, may have been under fire" },
-                { "text": "5-6: Been through a campaign" },
-                { "text": "7-8: Grizzled veterans" },
-                { "text": "9-10: Lucky survivors" }
+                {
+                  "text": "1-2: Green, some training"
+                },
+                {
+                  "text": "3-4: Trained, may have been under fire"
+                },
+                {
+                  "text": "5-6: Been through a campaign"
+                },
+                {
+                  "text": "7-8: Grizzled veterans"
+                },
+                {
+                  "text": "9-10: Lucky survivors"
+                }
               ]
             },
             {
               "text": "<b>Morale:</b>",
               "items": [
-                { "text": "1-2: Desperate, plotting mutiny or desertion" },
-                { "text": "3-4: Disillusioned, prone to desertion" },
-                { "text": "5-6: Shaken, shell-shocked, or bored" },
-                { "text": "7-8: High-spirited, eager" },
-                { "text": "9-10: Patriotic exuberance!" }
+                {
+                  "text": "1-2: Desperate, plotting mutiny or desertion"
+                },
+                {
+                  "text": "3-4: Disillusioned, prone to desertion"
+                },
+                {
+                  "text": "5-6: Shaken, shell-shocked, or bored"
+                },
+                {
+                  "text": "7-8: High-spirited, eager"
+                },
+                {
+                  "text": "9-10: Patriotic exuberance!"
+                }
               ]
             },
             {
               "text": "<b>Weapons:</b>",
               "items": [
-                { "text": "-2: Unarmed or pike" },
-                { "text": "-1: Smoothbore matchlock" },
-                { "text": "0: Smoothbore musket" },
-                { "text": "+1: Rifled musket" },
-                { "text": "+2: Needler rifle" }
+                {
+                  "text": "-2: Unarmed or pike"
+                },
+                {
+                  "text": "-1: Smoothbore matchlock"
+                },
+                {
+                  "text": "0: Smoothbore musket"
+                },
+                {
+                  "text": "+1: Rifled musket"
+                },
+                {
+                  "text": "+2: Needler rifle"
+                }
               ]
             }
           ]
@@ -357,12 +381,14 @@
           ]
         }
       ],
-      "footer": "For full details or clarifications, see the <a href=’https://docs.google.com/document/d/1p0V1G-u0KEq4HQcsVoFiI5F4si1qWlN2pzIO8uKTyuc/edit?usp=sharing’ rel=’noopener noreferrer’ target=’_blank’ class=’underline’>Full Ruleset</a> or consult an Admin."
+      "footer": "For full details or clarifications, see the <a href='/war-room/napoleonics/officers-manual' class='underline'>Officer's Manual</a> or consult an Admin."
     }
   ],
   "order-of-battles": [
     {
-      "eras": ["*"],
+      "eras": [
+        "*"
+      ],
       "iframe": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRWBJTpzEaZRSj6Kl5KNBVfpvfjIX6oogPGYrLj52V_17Mf5yXBzgOcVNhL44pUh8Y5_3_5abjO-Dog/pubhtml?widget=true&headers=false",
       "footer": "View and reference the OOB template. For full access and editing, open the <a href='https://docs.google.com/spreadsheets/d/13uA6M_O_hmAyhH_gIvT6ZR324dCwkEJRi3G5JrRK054/edit?usp=sharing' rel='noopener noreferrer' target='_blank' class='underline'>OOB Template</a> in a new tab."
     }
