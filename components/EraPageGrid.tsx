@@ -4,7 +4,7 @@ import EraPills from "@/components/EraPills";
 import warRoomMeta from "@/data/war_room_meta.json";
 import eras from "@/data/eras.json";
 import WarRoomCard from "@/components/WarRoomCard";
-import { FaChalkboardTeacher, FaCalculator, FaBook, FaMapMarkedAlt, FaClipboard, FaUsers, FaBroadcastTower } from "react-icons/fa";
+import { FaChalkboardTeacher, FaCalculator, FaBook, FaMapMarkedAlt, FaClipboard, FaUsers, FaBroadcastTower, FaTable } from "react-icons/fa";
 import Link from "next/link";
 
 const iconMap: Record<string, JSX.Element> = {
@@ -14,7 +14,8 @@ const iconMap: Record<string, JSX.Element> = {
   FaMapMarkedAlt: <FaMapMarkedAlt />,
   FaClipboard: <FaClipboard />,
   FaUsers: <FaUsers />,
-  FaBroadcastTower: <FaBroadcastTower />
+  FaBroadcastTower: <FaBroadcastTower />,
+  FaTable: <FaTable />
 };
 
 function matchesEra(entry: { eras?: string[] }, era: string): boolean {

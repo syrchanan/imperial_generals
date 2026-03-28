@@ -1,4 +1,4 @@
-import { FaClipboard, FaChevronRight, FaCrown, FaUserShield, FaMoneyCheckAlt, FaFlag, FaUserSecret, FaTrophy, FaArrowRight } from "react-icons/fa";
+import { FaClipboard, FaChevronRight, FaCrown, FaUserShield, FaMoneyCheckAlt, FaFlag, FaUserSecret, FaTrophy, FaArrowRight, FaHandshake } from "react-icons/fa";
 
 const iconMap: Record<string, any> = {
   FaClipboard,
@@ -9,6 +9,7 @@ const iconMap: Record<string, any> = {
   FaFlag,
   FaUserSecret,
   FaTrophy,
+  FaHandshake,
 };
 
 function renderItems(items: any[], depth = 0): JSX.Element {
