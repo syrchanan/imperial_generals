@@ -55,7 +55,9 @@
       "desc": "Official rules and guidelines.",
       "icon": "FaBook",
       "section": "reference",
-      "eras": []
+      "eras": [
+        "napoleonics"
+      ]
     },
     {
       "title": "Campaign Map",
@@ -68,7 +70,7 @@
       ]
     },
     {
-      "title": "Order of Battles",
+      "title": "Order of Battle",
       "slug": "order-of-battles",
       "desc": "Reference and track unit orders of battle for your forces.",
       "icon": "FaTable",

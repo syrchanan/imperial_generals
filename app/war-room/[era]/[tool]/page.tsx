@@ -9,6 +9,7 @@ import LedgersRollsPage from "@/components/LedgersRollsPage";
 import ForageAheadPage from "@/components/ForageAheadPage";
 import TelegraphOfficePage from "@/components/TelegraphOfficePage";
 import OrderOfBattlesPage from "@/components/OrderOfBattlesPage";
+import OfficersManualPage from "@/components/OfficersManualPage";
 import { ReactElement } from "react";
 
 interface Era {
@@ -77,6 +78,9 @@ const TOOL_COMPONENTS: Record<string, ToolComponentFn> = {
   ),
   "order-of-battles": (eraObj, era) => (
     <OrderOfBattlesPage eraObj={eraObj} oobData={getToolEraData("order-of-battles", era)} />
+  ),
+  "officers-manual": (eraObj, era) => (
+    <OfficersManualPage eraObj={eraObj} manualData={getToolEraData("officers-manual", era)} />
   ),
   "forage-ahead": (eraObj, era) => (
     <ForageAheadPage />

@@ -1,4 +1,11 @@
 {
+  "officers-manual": [
+    {
+      "eras": ["napoleonics"],
+      "iframe": "https://docs.google.com/document/d/1p0V1G-u0KEq4HQcsVoFiI5F4si1qWlN2pzIO8uKTyuc/preview",
+      "footer": "For full access or to suggest edits, <a href='https://docs.google.com/document/d/1p0V1G-u0KEq4HQcsVoFiI5F4si1qWlN2pzIO8uKTyuc/edit?usp=sharing' rel='noopener noreferrer' target='_blank' class='underline'>open in Google Docs</a>."
+    }
+  ],
   "field-handbook": [
     {
       "eras": [
@@ -144,8 +151,8 @@
     {
       "eras": ["napoleonics"],
       "headerLink": {
-        "text": "Full Ruleset (Google Doc)",
-        "href": "https://docs.google.com/document/d/1p0V1G-u0KEq4HQcsVoFiI5F4si1qWlN2pzIO8uKTyuc/edit?usp=sharing"
+        "text": "Officer's Manual — Full Ruleset",
+        "href": "/war-room/napoleonics/officers-manual"
       },
       "sections": [
         {
@@ -169,24 +176,6 @@
             },
             {
               "text": "All existing historical treaties as of March 25, 1802 are in full effect at game start."
-            }
-          ]
-        },
-        {
-          "icon": "FaTrophy",
-          "title": "Victory Conditions",
-          "items": [
-            {
-              "text": "For most nations, <b>survival</b> = victory."
-            },
-            {
-              "text": "Hegemony nations win by placing themselves in a dominant position through alliances, conquest, and neutralizing rivals."
-            },
-            {
-              "text": "Nation-specific victory conditions are posted in your national tab — check with your Admin."
-            },
-            {
-              "text": "<i>Secondary and secret objectives exist — accomplishing these earns rewards.</i>"
             }
           ]
         },
